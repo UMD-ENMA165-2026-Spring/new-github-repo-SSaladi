@@ -6,7 +6,8 @@
 4. i chose to add a gitignore and chose to make it in the python language because why not
 5. i added an MIT license because thats just what i always do
 ## this part if for the flavored markdown
-i will enjoy the :football: game tommorow 
+i will enjoy the :football: game tommorow
+
 this is a mention to Professor @guyer
 >[!warning]
 >this document is only used for the first assignment
