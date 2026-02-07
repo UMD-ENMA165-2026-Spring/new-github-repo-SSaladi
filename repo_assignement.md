@@ -1,5 +1,5 @@
 ## The Markdown document I made for the github repo assignment
-### * * Below are the choices i made when setting up the repo
+### *Below are the choices i made when setting up the repo*
 1. I chose to make this repository public because it would be much easier to submith the assignment
 2. i chose to start with no template because i wanted to make the other choices in the assignment
 3. i chose to add a README because i just wanted to have one
